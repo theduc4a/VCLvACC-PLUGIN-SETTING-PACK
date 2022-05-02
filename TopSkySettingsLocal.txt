@@ -1,0 +1,8 @@
+[_APP]
+MSAW=1
+STCA=1
+STCA_VFR=1
+APW=0
+MTCD=0
+SAP=0
+
