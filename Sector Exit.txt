@@ -1,0 +1,26 @@
+SEL
+m_Visible:1
+m_X:0
+m_Y:185
+m_LineNumber:20
+m_Resizable:1
+m_OrderingColumn:10
+m_HeaderOnly:0
+m_Column:Callsign:8:1:10021:6:0:1:TopSky plugin:TopSky plugin::0:0.0
+m_Column:Sqwk:5:1:2:0:0:1::::1:0.0
+m_Column:Asqwk:5:1:10041:62:62:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
+m_Column:C/S:1:0:18:0:0:1::::1:0.0
+m_Column::1:0:27:0:0:1::::1:0.0
+m_Column:ATyp:4:1:10028:0:0:1:TopSky plugin:::1:0.0
+m_Column:I/V:3:1:63:0:0:1::::1:0.0
+m_Column:Dep:5:1:10007:0:0:1:TopSky plugin:::1:0.0
+m_Column:Des:5:1:10008:1001:39:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
+m_Column:SID:15:1:10011:17:17:1:TopSky plugin:::1:0.0
+m_Column:STAR:15:1:10012:18:18:1:TopSky plugin:::1:0.0
+m_Column:Rwy:4:1:47:19:19:1::::1:0.0
+m_Column:Next:4:1:64:20:0:1::::1:0.0
+m_Column:Temp:4:1:10002:12:0:1:TopSky plugin:TopSky plugin::1:0.0
+m_Column:XFL:4:1:10003:24:24:1:TopSky plugin:::1:0.0
+m_Column:DCT:7:1:34:45:0:1::TopSky plugin::1:0.0
+m_Column:COPX:7:1:10065:45:45:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
+END

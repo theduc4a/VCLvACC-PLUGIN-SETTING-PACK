@@ -1,0 +1,83 @@
+VOICE
+AG:DNA_APP Da Nang Control:125.300
+AG:VCL_CTR Mekong Radar:129.425
+AG:VDPF_2_CTR Phnom Penh Center:126.200
+AG:VDPF_CTR Phnom Penh Center:127.500
+AG:VDPP_APP Phnom Penh Approach:123.800
+AG:VDPP_ATIS:127.250
+AG:VDPP_GND Phnom Penh Ground:129.000
+AG:VDPP_TWR Phnom Penh Tower:118.000
+AG:VDSR_APP Siem Reap Approach:124.300
+AG:VDSR_ATIS:129.950
+AG:VDSR_GND Siem Reap Ground:121.900
+AG:VDSR_TWR Siem Reap Tower:118.300
+AG:VDSV_APP Sihanouk Approach:124.000
+AG:VDSV_ATIS:128.500
+AG:VDSV_TWR Sihanouk Tower:118.200
+AG:VLAP_TWR Attapeu Tower:118.550
+AG:VLLB_APP Luang Phabang Approach:118.500
+AG:VLLN_TWR Luang Namtha Tower:118.800
+AG:VLPS_APP Pakse Approach:118.500
+AG:VLPS_TWR Pakse Tower:120.825
+AG:VLSK_APP Savannakhet Approach:119.750
+AG:VLSK_TWR Savannakhet Tower:119.850
+AG:VLSN_TWR Samneua Tower:118.500
+AG:VLSP_ATIS:123.650
+AG:VLSP_TWR Sepon Tower:118.500
+AG:VLVT_1_CTR Vientiane Control:124.100
+AG:VLVT_APP Vientiane Terminal:119.700
+AG:VLVT_ATIS:127.800
+AG:VLVT_CTR Vientiane Control:128.300
+AG:VLVT_TWR Vientiane Tower:118.100
+AG:VLXK_TWR Xiengkhuang Tower:118.550
+AG:VVBM_TWR Buon Ma Thuot Tower:118.450
+AG:VVCA_TWR Chu Lai Tower:118.250
+AG:VVCI_TWR Cat Bi Tower:118.500
+AG:VVCM_TWR Ca Mau Tower:118.100
+AG:VVCR_APP Cam Ranh Approach:127.900
+AG:VVCR_TWR Cam Ranh Tower:118.200
+AG:VVCS_TWR Conson Tower:118.150
+AG:VVCT_TWR Can Tho Tower:118.800
+AG:VVDB_TWR Dien Bien Tower:118.700
+AG:VVDH_TWR Donghoi Tower:118.700
+AG:VVDL_TWR Lien Khuong Tower:118.400
+AG:VVDN_APP Da Nang Approach:120.450
+AG:VVDN_GND Da Nang Ground:121.600
+AG:VVDN_TWR Da Nang Tower:118.350
+AG:VVHM_1_CTR Ho Chi Minh Control:134.050
+AG:VVHM_2_CTR Ho Chi Minh Control:120.100
+AG:VVHM_3_CTR Ho Chi Minh Control:120.900
+AG:VVHM_4_CTR Ho Chi Minh Control:133.050
+AG:VVHM_5_CTR Ho Chi Minh Control:120.700
+AG:VVHM_6_CTR Ho Chi Minh Control:125.375
+AG:VVHM_A_CTR Ho Chi Minh Control:123.525
+AG:VVHM_B_CTR Ho Chi Minh Control:124.975
+AG:VVHM_CTR Ho Chi Minh Control:132.350
+AG:VVHN_1_CTR Hanoi Control:132.300
+AG:VVHN_2_CTR Hanoi Control:133.650
+AG:VVHN_3_CTR Hanoi Control:125.900
+AG:VVHN_4_CTR Hanoi Control:123.350
+AG:VVHN_CTR Hanoi Control:123.300
+AG:VVNB_APP Noi Bai Terminal:125.100
+AG:VVNB_DEL Noibai Delivery:119.250
+AG:VVNB_F_APP Noibai Arrival:121.000
+AG:VVNB_GND Noibai Ground:121.900
+AG:VVNB_TWR Noibai Tower:118.400
+AG:VVPB_TWR Phu Bai Tower:118.800
+AG:VVPC_TWR Phu Cat Tower:118.600
+AG:VVPK_TWR Pleiku Tower:118.100
+AG:VVPQ_TWR Phu Quoc Tower:118.600
+AG:VVRG_TWR Rach Gia Tower:118.300
+AG:VVTH_TWR Tuy Hoa Tower:118.900
+AG:VVTS_2_GND Ho Chi Minh Ground:121.600
+AG:VVTS_APP Tan Son Nhat Terminal:125.500
+AG:VVTS_DEL Tan Son Nhat Delivery:121.800
+AG:VVTS_F_APP Tan Son Nhat Arrival:126.350
+AG:VVTS_GND Tan Son Nhat Ground:121.900
+AG:VVTS_TWR Tan Son Nhat Tower:118.700
+AG:VVTX_TWR Tho Xuan Tower:118.650
+AG:VVVD_TWR Van Don Tower:118.100
+AG:VVVH_TWR Vinh Tower:118.300
+AG:VVTS_ATIS:128.000
+AG:VVNB_ATIS:127.000
+END
