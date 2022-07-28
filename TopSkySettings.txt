@@ -1,3 +1,15 @@
+Color_Foreground=255,255,255
+Color_Background=39,39,39
+Color_Field_Highlight=72,72,73
+Color_Flight_Highlight=36,41,45
+Color_Flight_Leg=170,231,197
+Color_CARD_Time_Vector=170,231,197
+Color_FPLSEP_Tool_1=153,217,234
+Color_FPLSEP_Tool_2=255,153,184
+Color_FPLSEP_Tool_3=255,209,143
+Color_FPLSEP_Tool_4=197,64,212
+Color_FPLSEP_Tool_5=166,160,245
+
 Setup_COOPANS=1
 Color_Unconcerned=142,142,142
 Color_Coordination=84,179,108
@@ -34,13 +46,11 @@ CPDLC_Send_FSM_RCD=1
 RDF_Mode=-1
 
 [_CTR]
-Window_CPDLC_Setting=1,1759,634
+Window_CPDLC_Setting=1,119,236
 Window_PrimFreqMsg=1,104,773,435,150
 Window_ATCmsg=1,104,608,435,150
-Window_CPDLC_Current=1,1605,886
-Window_Ops=1,1623,372
-Window_PredTfc=1,1622,572
-Window_CARD=1,1568,768
+Window_CPDLC_Current=1,1550,595
+Window_PredTfc=1,1625,756
 CPDLC_AutoAcceptLogon=1
 CPDLC_AutoAcceptLogon_Time=30
 CPDLC_CFL=1
