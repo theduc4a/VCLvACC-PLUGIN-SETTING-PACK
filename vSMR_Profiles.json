@@ -539,7 +539,7 @@
       "arrival": {
         "definition": [
           [ "callsign" ],
-          [ "uk_stand" ]
+          [ "gate" ]
         ],
         "background_color": {
           "r": 68,
