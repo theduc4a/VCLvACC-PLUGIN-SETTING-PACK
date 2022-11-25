@@ -694,9 +694,9 @@ TAGITEM:15::1:0:0:0:TopSky plugin:0:1:::1
 TAGITEM:2::0:1:0:0:CoFrance:0:1:::1
 TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::1
 TAGTYPE:1:10:0
-TAGITEM:7::0:0:0:0:CoFrance:0:1:::1
-TAGITEM:1::0:0:0:0:CoFrance:0:1:::1
-TAGITEM:16::0:0:0:0:CoFrance:0:1:::1
+TAGITEM:7::0:1:0:0:CoFrance:0:1:::1
+TAGITEM:1::0:1:0:0:CoFrance:0:1:::1
+TAGITEM:16::0:1:0:0:CoFrance:0:1:::1
 TAGITEM:90::0:1:41:0::0:1:::1
 TAGITEM:21::0:1:0:0::0:1:::1
 TAGITEM:65::0:1:25:0::0:1:::1
@@ -720,9 +720,9 @@ TAGITEM:3::0:1:0:0:CoFrance:0:1:::1
 TAGITEM:17::0:1:0:0::0:0:::8
 TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::1
 TAGTYPE:2:11:1
-TAGITEM:6::0:0:0:0:CoFrance:0:1:::1
-TAGITEM:1::0:0:0:0:CoFrance:0:1:::1
-TAGITEM:16::0:0:0:0:CoFrance:0:1:::1
+TAGITEM:6::0:1:0:0:CoFrance:0:1:::1
+TAGITEM:1::0:1:0:0:CoFrance:0:1:::1
+TAGITEM:16::0:1:0:0:CoFrance:0:1:::1
 TAGITEM:90::0:1:41:0::0:1:::1
 TAGITEM:42::0:1:62:0::0:1:TopSky plugin::1
 TAGITEM:19::0:1:0:0:CoFrance:0:1:::1
